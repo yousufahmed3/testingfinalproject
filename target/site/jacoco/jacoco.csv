@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+automated-testing-project,com.example,NotEnoughPrecisionException,0,4,0,0,0,2,0,1,0,1
+automated-testing-project,com.example,Quadratic,118,201,11,23,37,36,9,15,3,4
+automated-testing-project,com.fastaccess.tfl.helper,DateHelper,309,82,14,0,73,14,20,6,13,6
+automated-testing-project,com.fastaccess.tfl.helper,DateHelper.DateFormats,0,499,0,0,0,24,0,3,0,3
